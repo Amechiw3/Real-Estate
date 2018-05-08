@@ -1,0 +1,9 @@
+<script src="core/libs/assets/js/jquery.js"></script>
+<script src="core/libs/assets/js/jquery.validate.js"></script>
+<script src="core/libs/assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="core/libs/assets/js/Admin-dashboard.js"></script>
+<script src="core/libs/assets/js/Datatables/Admin-datatables.js"></script>
+<script src="core/libs/assets/js/agrprop.js"></script>
+<script src="core/libs/assets/js/Datatables/datatables.js"></script>
+<script src="core/libs/assets/js/micuenta.js"></script>
+<script src="core/libs/assets/js/registro.js"></script>
