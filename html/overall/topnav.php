@@ -140,7 +140,7 @@
         </a>
         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="messagesDropdown">
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">
+          <a class="dropdown-item" href="?view=homepage&module=miperfil&UsuarioID=<?=$users[$_SESSION['app_id']]['UsuarioID']?>">
             <strong>Mi cuenta</strong></a>
           <div class="dropdown-divider"></div>
         </div>

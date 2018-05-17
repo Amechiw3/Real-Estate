@@ -4,7 +4,6 @@
   <li class="breadcrumb-item"><a><span>Agregar ciudad</span></a></li>
 </ol>
 <div class="row">
-  
   <?php
     if(isset($_GET['error'])){
       echo '<div class="col-12">
@@ -25,7 +24,6 @@
       </div>';
     }
   ?>
-  
   <div class="col-12">
     <form class="mb-2" action="?view=homepage&module=ciudades&mode=add" method="POST" enctype="application/x-www-form-urlencoded">
       <div class="form-group">

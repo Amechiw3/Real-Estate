@@ -6,7 +6,7 @@ $(document).ready(function() {
       if (FileReader && files && files.length) {
           var fr = new FileReader();
           fr.onload = function () {
-              document.getElementById('previewimg').src = fr.result;
+              document.getElementById('preusu').src = fr.result;
           }
           fr.readAsDataURL(files[0]);
       }
